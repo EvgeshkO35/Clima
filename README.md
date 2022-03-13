@@ -9,7 +9,7 @@ It’s time to take my app development skills to the next level. I'm going to in
 
 By the end of the module, I will have made a beautiful, dark-mode enabled weather app. I'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What I learned in this module
+## What I learned from this module
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
